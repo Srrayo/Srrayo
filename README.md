@@ -45,7 +45,7 @@
 - Microservices & API optimization  
 
 ## 📫 Get in Touch:
-- [LinkedIn](www.linkedin.com/in/dong-seo) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dong-seo)
 - Email: seodhco@gmail.com
 
 ---
