@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi there! I'm [Dong] 👨‍💻
 
-<!--
-**Srrayo/Srrayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about software development, process automation, and cloud technologies.
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**🖥️ Languages:**  
+- ☕ Java  
+- 🐍 Python  
+- ⚙️ Kotlin  
+- 🌐 JavaScript  
+- 🗄️ SQL  
+
+**🎨 Frontend:**  
+- 🏷️ HTML5  
+- 🎨 CSS3  
+- 🅰️ AngularJS  
+
+**🔧 Backend:**  
+- 🌱 Spring  
+- 🛠️ Hibernate  
+- 🔗 RESTful APIs  
+
+**💾 Databases:**  
+- 🐬 MySQL  
+- 🍃 MongoDB  
+
+**🛠️ Tools & Platforms:**  
+- 🧰 Git  
+- 🗂️ SourceTree  
+- 📮 Postman  
+- 🐳 Docker  
+- 🤖 Ansible  
+
+**⚙️ Others:**  
+- 🔌 API Development & Testing  
+- 🤖 Automation & Scripting  
+- 🏗️ Software Design Patterns  
+
+## 🔧 Currently Interested In:
+- Backend Development with Java & Python  
+- Infrastructure Automation with Docker & Ansible  
+- DevOps & Cloud Computing  
+- Microservices & API optimization  
+
+## 📫 Get in Touch:
+- [LinkedIn](www.linkedin.com/in/dong-seo) 
+- Email: seodhco@gmail.com
+
+---
+
+### ⚡ Fun Facts:
+- 💡 Always curious about new technologies.
+- 🚀 Interested in Open Source and IT process automation.
+- 🐧 Linux & DevOps enthusiast.
+
+---
+
+_Thanks for visiting my profile!_ 😄
+
